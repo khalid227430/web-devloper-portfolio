@@ -3,6 +3,7 @@ nav{
     display:flex;
 font-family: 'Open Sans', sans-serif;
 justify-content: space-between;
+margin: 0 200px;
 }
 
 .text-primary{
@@ -34,4 +35,15 @@ nav a{
 }
 nav > nav-title {
     align-items: center;
+}
+.header{
+    background-color: antiquewhite;
+}
+.banner{
+    padding: 30px 30px 30px 150px;
+    display: flex;
+    
+}
+.banner .profile-pic{
+    width: 400px;
 }
